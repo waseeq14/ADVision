@@ -7,22 +7,6 @@
 
 ---
 
-## Table of Contents
-
-* [What it is](#what-it-is)
-* [Features](#features)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Output](#output)
-* [Example `requirements.txt`](#example-requirementstxt)
-* [Security & Operational Notes](#security--operational-notes)
-* [Troubleshooting](#troubleshooting)
-* [Development / Contributing](#development--contributing)
-* [License](#license)
-
----
-
 ## What it is
 
 ADVISION is a single-file Python utility (`adv.py` or similar) that performs LDAP/AD enumeration and quick checks:
